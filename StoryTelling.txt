@@ -1,0 +1,70 @@
+1. Key data Insight
+Data Summary
+.total records: 3,900 customers
+.No missing values
+.No duplicate rows
+.Balanced & clean Dataset
+
+2 Age Group & Gender Spending
+.Spending is stable across all age groups(58-62 USD)
+.Females (26-35) show the highest average spending 
+.Male (46-55) spend slightly more then other male age groups
+
+Insight:
+Mid-age customers genrete slightly higher revenue, but spending does not drastically vary age.
+
+3 Customer Distribution
+.Male customers are almost twice as many as Female customers 
+. Majority of customers fall between 18-65 years
+Insight:
+The cutomer base is male- domainated, suggesting male-focused marketing strategies
+
+4 Product & Size Preferences 
+. Medium (M) and Large(L) size are the most purchased
+.Small (S) and XL are niche size
+
+Insight:
+Inventory should prioritize M and L size to meet demand
+
+5 Location Based Category Spending
+. Signification spending variation across Location
+. Some state show much higher average spending in categories like outerwear
+
+Insight:
+Regional pricing and localized promotions can improve revenue
+
+5 Subscription & Customer Loyalty
+. Non-subscription are more in number
+. subscription have higher previous purchase counts
+
+Insight :
+Subscription customers are more loyal and valuable in the long term
+
+6 Payment Method Usage
+. Payment methods are evenly distributed
+. cash, credit card, Paypal, and Venmo are all widely used
+
+Insight : 
+Business should support multiple payment option equally
+
+7 Discount Impact
+. Purchases without discounts: 2223
+. Purchases with discount: 1677
+Insight:
+Discount are not the main driver of purcahses , indicating strong brand trust
+
+8 Review Rating & Repeat Purchases 
+. higher review rating are linked with higher previous Purchases
+Insight :
+Customer satisfaction directly influences loyalty
+
+9 Color Preferences by Age & Gender
+. Certain colors are more populer in specific age and gender groups
+Insight : 
+Color-based targeting can improve prodect recommendation
+
+3 One Paragraph Interview Summary
+This project analyzes customer shopping behavior using Python to identify spending patterns,
+product preferences, and loyalty trends. The results show stable spending across age groups,
+higher loyalty among subscription users, and minimal dependency on discounts. Payment preferences are evenly distributed,
+and regional differences suggest opportunities for targeted marketing and pricing strategies.
