@@ -1,11 +1,11 @@
 # Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project performs an in-depth exploratory data analysis (EDA) on a retail customer dataset to understand shopping behavior, spending patterns, customer loyalty, and purchasing preferences. The analysis transforms raw transactional data into actionable business insights using Python.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze customer spending patterns across age groups and gender
 - Identify high-value customer segments and loyalty trends
 - Understand the impact of discounts and subscriptions on purchases
@@ -14,7 +14,7 @@ This project performs an in-depth exploratory data analysis (EDA) on a retail cu
 
 ---
 
-## 📊 Dataset Summary
+##  Dataset Summary
 - Total Records: 3,900 customers
 - Features: 16 (Demographics, purchase behavior, ratings, and preferences)
 - Missing Values: None
@@ -23,14 +23,14 @@ This project performs an in-depth exploratory data analysis (EDA) on a retail cu
 
 ---
 
-## 🧹 Data Cleaning & Feature Engineering
+##  Data Cleaning & Feature Engineering
 - Converted raw purchase data into analysis-ready numerical format
 - Created meaningful age groups to enable demographic analysis
 - Validated data consistency and integrity across all features
 
 ---
 
-## 🔍 Key Analysis & Insights
+##  Key Analysis & Insights
 
 ### Customer Demographics & Spending
 - Customer spending remains relatively stable across age groups
@@ -55,7 +55,7 @@ This project performs an in-depth exploratory data analysis (EDA) on a retail cu
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 The project includes multiple visualizations such as:
 - Average spending by age group and gender
 - Product purchase frequency analysis
@@ -68,7 +68,7 @@ All visual outputs are stored in the `fig/` directory.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas
 - NumPy
